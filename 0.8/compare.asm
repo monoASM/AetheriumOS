@@ -1,4 +1,3 @@
-
 compare_strs_si_bx:
     push si                   ; сохраняем все нужные в функции регистры на стеке
     push bx
